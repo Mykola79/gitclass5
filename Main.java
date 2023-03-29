@@ -8,6 +8,7 @@ public class Main {
         solar.sun="Hot";
         solar.moon="Round";
         solar.planets="Col";
+        solar.polarStar="Bright";
 
 
 
