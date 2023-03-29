@@ -7,7 +7,9 @@ public class Main {
 
         solar.sun="Hot";
         solar.moon="Round";
-        solar.planets="Cold";
+        solar.planets="Col";
+
+
 
 
     }
